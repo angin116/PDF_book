@@ -1,0 +1,20 @@
+PDFPasswordCrackerPro
+用于移除PDF密码
+
+FreePic2Pdf_4.01
+用于手动整理PDF书签
+
+AutoBookmark_v6.1
+是Acrobat的插件，用于从文字PDF中提取书签
+
+Enfocus_PitStop_11
+是Acrobat的插件，用于移除水印
+
+Acrobat
+PDF书签整理的软件
+
+WPS Office开通会员
+用于OCR识别扫描PDF的目录
+
+Notepad++
+用于手动整理PDF书签
